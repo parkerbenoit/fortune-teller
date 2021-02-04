@@ -2,6 +2,14 @@ h1 {
   text-align: center;
 }
 
-#survey-responses {
+#survey-responses1 {
+  display: none;
+}
+
+#survey-responses2 {
+  display: none;
+}
+
+#survey-responses3 {
   display: none;
 }
